@@ -4,7 +4,7 @@
 // (color values are interpreted literally; no scaling), 1 = min
 // brightness (off), 255 = just below max brightness. function cmd b,x
 //c = update a set of pixels at indexes to the RGB colors function cmd c parameters c|index(r,g,b)index(r,g,b)
-//d = turn off all pixels
+//d = turn off all pixels 
 #include <Adafruit_NeoPixel.h>
 #include <stdlib.h>
 #include <string.h>
